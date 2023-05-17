@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">87719942028-21t1d6tqb17gvvr002hg13dqtg7qirhq.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://real-estate-e5bce-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">87719942028</string>
+    <string name="google_api_key" translatable="false">AIzaSyD1YJ5lJb6dvkJhYgOUOlDZ5mMz6H00_b4</string>
+    <string name="google_app_id" translatable="false">1:87719942028:android:1d8a6d733e1867eabe28a9</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD1YJ5lJb6dvkJhYgOUOlDZ5mMz6H00_b4</string>
+    <string name="google_storage_bucket" translatable="false">real-estate-e5bce.appspot.com</string>
+    <string name="project_id" translatable="false">real-estate-e5bce</string>
+</resources>
